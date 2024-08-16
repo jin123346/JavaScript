@@ -96,7 +96,7 @@ main  input{
 }
 main #addbtn{
     background-color: #224D60;
-    border: 1px solid #2c637a(36, 36, 250);
+    border: 1px solid #316b85(36, 36, 250);
     color: white;
     width: 50px;
     border-top-left-radius: 0px;
@@ -171,21 +171,17 @@ main .rmbtn{
 
 
 
-main li:first-child{
+main li:first-child {
     border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 main li:last-child{
     border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 
-main li:first-child{
-    border-top-left-radius: 5px;
-}
 
-main li:last-child{
-    border-bottom-left-radius: 5px;
-}
 
 /* footer */
