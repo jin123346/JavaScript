@@ -24,7 +24,7 @@ a:hover {text-decoration: none; color: inherit;}
 input:active{outline: none;}
 input::placeholder{text-indent: 4px;} /* 텍스트 들여쓰기 */
 
-
+button:hover{outline: none; border: none;}
 
 #wapper{
     width: 100%;
@@ -96,7 +96,7 @@ main  input{
 }
 main #addbtn{
     background-color: #224D60;
-    border: 1px solid #408caf(36, 36, 250);
+    border: 1px solid #c2bfbf;
     color: white;
     width: 50px;
     border-top-left-radius: 0px;
